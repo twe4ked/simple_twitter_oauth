@@ -10,6 +10,8 @@ gem 'simple_twitter_oauth'
 
 ## Usage
 
+Docs: http://www.rubydoc.info/github/twe4ked/simple_twitter_oauth
+
 ``` ruby
 request_token = SimpleTwitterOAuth.get_request_token(
   consumer_key: 'abc123',
